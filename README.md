@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning : **Machine Learning , Deep Learning with Tensorflow**
 
-- 👯 I’m looking to : collaborate on **collaborate on Open source projects**
+- 👯 I’m looking to : **collaborate on Open source projects**
 
 - 😄 Pronouns are : **He/Him**
 
