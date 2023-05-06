@@ -16,7 +16,7 @@
 
 - 📫 Mail me at : **shuddhashil.ganguly@gmail.com**
 
-- ⚡**In the city of the blind whoever has an eye will be a problem for others"**
+            - 📜 <b>**In the city of the blind whoever has an eye will be a problem for others"**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
