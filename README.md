@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1LWoDwcyDx_3gdKZ1_PY_5PElA7pGjDyl" width="100%" height="550">
 
 
-<h1 align="center">Hi <animated-image data-catalyst="" style="width: 45px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<h1 align="center">Hi  <animated-image data-catalyst="" style="width: 45px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" target="_blank">  I'm Shuddhashil</h1>
 <h3 align="center">A passionate developer and analyst from India</h3>
